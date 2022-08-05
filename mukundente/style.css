@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+.principal{
+    margin: auto;
+    padding: auto;
+    margin-top : 100px; 
+    width: 400px;
+    height: 300px;
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    overflow: hidden;
+
+}
+.premier{
+    display: flex;
+    background-color: aqua;
+}
+.etude{
+   margin-left: 10px; 
+}
+.eleve{
+    margin: auto;
+    margin-right: 10px;
+}
+.rutwe{
+    display: flex;
+}
+.img{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.document{
+    text-align: justify;
+    margin-right: 10px;
+}
+
+.peace{
+  /*   margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: block; */
+    text-align: center;
+    
+
+}
+
+.valider{
+    background-color: red;
+    border-color: red;
+}
+.hogi{
+    text-align: center;
+    margin-top: 35px;
+    border-top: 2px solid red;
+}
+.envoyer{
+    margin-top: 20px;
+}

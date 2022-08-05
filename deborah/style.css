@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+   
+
+}
+ body{
+    display: flex;
+ }
+ .principal, .premier{
+    width: 50%;
+ }
+
+ .body{
+    display: flex;
+ }
+.primaire{
+   height: 100vh;
+   margin-top: 60px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+.button{
+   text-align: center;
+}
+.button input{
+   border: none;
+}
+.img{
+   width: 100%;
+   height:auto ;
+}
+.body{
+   background-color: beige;
+   display: flex;
+}
+.principal,
+.secondaire{
+   width: 50%;
+}
+.button{
+   word-spacing: 50px;
+}
+.admin{
+   background-color: blue;
+   border: blue;
+}
+.employeur{
+   background-color: aqua;
+   border: aqua;
+}
